@@ -1,0 +1,100 @@
+{"posts":
+[
+  {
+    "id": 1,
+    "date": "2023-11-09",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Like Button",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "likes": 15
+  },
+  {
+    "id": 2,
+    "date": "2023-11-10",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Post Image",
+    "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "likes": 20
+  },
+  {
+    "id": 3,
+    "date": "2023-11-11",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Another Image",
+    "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "likes": 18
+  },
+  {
+    "id": 4,
+    "date": "2023-11-09",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Like Button",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "likes": 15
+  },
+  {
+    "id": 5,
+    "date": "2023-11-10",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Post Image",
+    "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "likes": 20
+  },
+  {
+    "id": 6,
+    "date": "2023-11-11",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Another Image",
+    "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "likes": 18
+  },
+  {
+    "id": 7,
+    "date": "2023-11-09",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Like Button",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "likes": 15
+  },
+  {
+    "id": 8,
+    "date": "2023-11-10",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Post Image",
+    "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "likes": 20
+  },
+  {
+    "id": 9,
+    "date": "2023-11-11",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Another Image",
+    "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "likes": 18
+  },
+  {
+    "id": 10,
+    "date": "2023-11-09",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Like Button",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "likes": 15
+  },
+  {
+    "id": 11,
+    "date": "2023-11-10",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Post Image",
+    "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "likes": 20
+  },
+  {
+    "id": 12,
+    "date": "2023-11-11",
+    "imageSrc": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+    "imageAlt": "Another Image",
+    "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "likes": 18
+  }
+]
+}
